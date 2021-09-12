@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-24T10:13:17 IST" name="Default suite" finished-at="2021-07-24T10:13:24 IST" duration-ms="7669">
+    <groups>
+    </groups>
+    <test started-at="2021-07-24T10:13:17 IST" name="Default test" finished-at="2021-07-24T10:13:24 IST" duration-ms="7669">
+      <class name="Com.Check.Practice">
+        <test-method is-config="true" signature="Driver()[pri:0, instance:Com.Check.Practice@1cbb87f3]" started-at="2021-07-24T10:13:17 IST" name="Driver" finished-at="2021-07-24T10:13:20 IST" duration-ms="3211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Driver -->
+        <test-method signature="login()[pri:0, instance:Com.Check.Practice@1cbb87f3]" started-at="2021-07-24T10:13:20 IST" name="login" finished-at="2021-07-24T10:13:24 IST" duration-ms="4405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="check()[pri:0, instance:Com.Check.Practice@1cbb87f3]" started-at="2021-07-24T10:13:24 IST" name="check" finished-at="2021-07-24T10:13:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+      </class> <!-- Com.Check.Practice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
